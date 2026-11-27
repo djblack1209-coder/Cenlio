@@ -2663,7 +2663,7 @@ dependencies = [
  "cocoa",
  "dirs 5.0.1",
  "env_logger",
- "getrandom 0.2.17",
+ "getrandom 0.4.3",
  "log",
  "objc",
  "once_cell",
