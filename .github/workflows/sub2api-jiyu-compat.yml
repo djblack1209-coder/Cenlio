@@ -123,7 +123,7 @@ jobs:
 
       - name: Setup Go
         if: steps.existing.outputs.skip != 'true' && steps.reviewed.outputs.skip != 'true'
-        uses: actions/setup-go@4dc6199c7b1a012772edbd06daecab0f50c9053c # v6.1.0
+        uses: actions/setup-go@d8cbb8045d7f43706b9177cceb36c1f91a6644d5 # v7.1.0
         with:
           go-version-file: upstream/backend/go.mod
           cache-dependency-path: upstream/backend/go.sum
