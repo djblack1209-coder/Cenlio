@@ -2334,9 +2334,9 @@ opentelemetry-api==1.42.1 \
 opentelemetry-exporter-otlp==1.42.1 \
     --hash=sha256:2d9ebaed714377a67d224d46795ddcc11d2c877fa5de35fda70b6f3b010729a9 \
     --hash=sha256:aedd54545bb0587cd45210abdc8be545af9c01413f3307786e276df1e3c83bee
-opentelemetry-exporter-otlp-proto-common==1.42.1 \
-    --hash=sha256:04f1f01fb597c4249dfcd7f8b861c902c2102369d376d9d346ff38de4469a2ee \
-    --hash=sha256:f48d395ab815b444da118868977e9798ea354c25737d5cf39578ae894011c140
+opentelemetry-exporter-otlp-proto-common==1.45.2 \
+    --hash=sha256:af483b24217028892f017096731b794b196b785025d2e6808874720fd0b05a80 \
+    --hash=sha256:f1f2806f3f28ce7938033823e50934fcd91595a39de38e69a28a51e19f40fc6d
 opentelemetry-exporter-otlp-proto-grpc==1.42.1 \
     --hash=sha256:0ae1177e2038b18a929b3098215243631ef91136cba26b7e2b12790ceb7e87cc \
     --hash=sha256:975c4461f167dd8ed8857d68d3b6b25f3d272eab896f6a9470d0f5b90e2faf15
